@@ -1,0 +1,11 @@
+{
+    "dev": {
+        "app_function": "app.app",
+        "aws_region": "ap-south-1",
+        "profile_name": "default",
+        "project_name": "webstory-next",
+        "runtime": "python3.9",
+        "s3_bucket": "python-webstory-zappa",
+        "timeout_seconds": 200
+    }
+}
